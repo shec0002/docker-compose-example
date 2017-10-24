@@ -1,5 +1,5 @@
-# Docker compose example.
-This code is from the example found on the docker site here.
+# Docker Compose Example
+This code is from the example found on the docker site here:
 <https://docs.docker.com/compose/gettingstarted/>
 
 Run this script to create a local images runing the python flask app, download
