@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker rm redis web
+docker-compose rm
