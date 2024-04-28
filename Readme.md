@@ -25,3 +25,8 @@ of the docker-compose command in the run script.
 rm.sh
 ```
 
+Run this script to remove the images from the disk that were downloaded and created as part
+of the docker-compose command in the run script.
+```
+rmi.sh
+```
