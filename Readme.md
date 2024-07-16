@@ -10,7 +10,7 @@ run.sh
 
 Load this url and see the count increment with each load of the page.
 ```
-http://localhost:5000
+query.sh
 ```
 
 Run this command to stop the web and redis containers.  State in redis will be
